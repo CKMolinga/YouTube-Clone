@@ -25,7 +25,7 @@ const Feed = () => {
         selectedCategory={selectedCategory}
         setselectedCategory={setselectedCategory} />
 
-        <Typography className='copyright' variant= 'body2' sx={{ mt: 1.5, color: '#fff'}}>
+        <Typography className='copyright' variant= 'body2' sx={{ mt: 1.5, px: 2, color: '#fff'}}>
           Copyright &copy;2022 
         </Typography>
       </Box>
